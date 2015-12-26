@@ -9,6 +9,11 @@ public class DirectInsertSort {
 		
 		
 		
+		
+		
+		
+		
+		
 			          int[] a={49,38,65,97,76,13,27,49,78,34,12,64,1};
 			          System.out.println("≈≈–Ú÷Æ«∞£∫");
 			          for (int i = 0; i < a.length; i++) {
