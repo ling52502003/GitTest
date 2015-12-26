@@ -9,6 +9,8 @@ public class ScannerTest
     {
         Scanner sc = new Scanner(System.in);
         
+        
+        
 //        int [] intArray = new int [1000];
         int j =0;
         while(sc.hasNext()) {
