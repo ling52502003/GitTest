@@ -7,7 +7,8 @@ public class RegExT2 {
 	public static void main(String[] args) {
 		Pattern pattern = Pattern.compile("b.g");
 		Matcher matcher = pattern.matcher("sssbbgaaadddbkgddeeebbguu888byg");
-		//IP��ַƥ��
+		//IPµØÖ·Æ¥Åä
+		////gggg
 		//(\d{1,3}\.){3}\d{1,3}
 		System.out.println(matcher.matches()); 
 		while (matcher.find()){
